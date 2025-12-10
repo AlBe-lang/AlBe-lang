@@ -2,7 +2,7 @@
 
 <h3 align="center">
   기술적 이해를 바탕으로 문제를 구조화하고, 데이터와 사용자 관점에서 서비스를 설계하는<br/>
-  <img src="role.svg" alt="Service Planner & Product Manager" />
+  <img src="https://raw.githubusercontent.com/AlBe-lang/AlBe-lang/main/role.svg" alt="Service Planner & Product Manager" />
 </h3>
 
 <p align="center">
