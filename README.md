@@ -20,29 +20,34 @@
 
 ### Development
 <p>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="SQL/PostgreSQL" />
 </p>
 
 ### Data / Analytics
 <p>
-  <img src="https://img.shields.io/badge/GA4-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+  <img src="https://cdn.simpleicons.org/googleanalytics/E37400" width="40" height="40" alt="GA4" />
+  <img src="https://cdn.simpleicons.org/tableau/E97627" width="40" height="40" alt="Tableau" />
 </p>
 
 ### Planning / Collaboration
 <p>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
-  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
+  <img src="https://cdn.simpleicons.org/figma/F24E1E" width="40" height="40" alt="Figma" />
+
+  <!-- Notion: 라이트/다크 모드 대응 -->
+  <img src="https://cdn.simpleicons.org/notion/000000#gh-light-mode-only" width="40" height="40" alt="Notion" />
+  <img src="https://cdn.simpleicons.org/notion/FFFFFF#gh-dark-mode-only" width="40" height="40" alt="Notion" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" width="40" height="40" alt="Slack" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="40" height="40" alt="Jira" />
 </p>
 
 ### AI Tools
 <p>
-  <img src="https://img.shields.io/badge/ChatGPT-0FA958?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Claude-111111?style=for-the-badge&logo=anthropic&logoColor=white" />
-  <img src="https://img.shields.io/badge/Perplexity-003545?style=for-the-badge&logo=perplexity&logoColor=white" />
+  <!-- ChatGPT는 공식 로고 단독 리소스가 제한적이라 OpenAI 로고로 표현 -->
+  <img src="https://cdn.simpleicons.org/openai/0FA958" width="40" height="40" alt="ChatGPT/OpenAI" />
+  <img src="https://cdn.simpleicons.org/anthropic/111111" width="40" height="40" alt="Claude/Anthropic" />
+  <img src="https://cdn.simpleicons.org/perplexity/003545" width="40" height="40" alt="Perplexity" />
 </p>
 
