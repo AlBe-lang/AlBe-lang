@@ -4,12 +4,12 @@
   기술적 이해를 바탕으로 문제를 구조화하고, 데이터와 사용자 관점에서 서비스를 설계하는
 </p>
 
-<h3 align="center">
+<h2 align="center">
   <strong>Service Planner & Product Manager</strong>
-</h3>
+</h2>
 
-
-
+<br/>
+<br/>
 
 <p align="center">
   📫 <strong>Contact</strong> · 
