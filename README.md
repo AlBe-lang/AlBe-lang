@@ -1,6 +1,4 @@
-<h1 align="center">
-  👋 Hi, I'm <strong>AlBe Kim</strong>
-</h1>
+<h1 align="center">👋 Hi, I'm <strong>AlBe Kim</strong></h1>
 
 <p align="center">
   기술적 이해를 바탕으로 문제를 구조화하고,<br/>
@@ -18,34 +16,30 @@
 
 ## 🧠 Languages & Tools
 
-<!-- Core Dev -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="42" title="TypeScript"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="42" title="React"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="42" title="SQL"/>
+### Development
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
 
-<br/><br/>
+### Data / Analytics
+<p>
+  <img src="https://img.shields.io/badge/GA4-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+</p>
 
-<!-- Data / Analytics -->
-<img src="https://www.vectorlogo.zone/logos/google_analytics/google_analytics-icon.svg" width="42" title="GA4"/>
-<img src="https://www.vectorlogo.zone/logos/tableau/tableau-icon.svg" width="42" title="Tableau"/>
+### Planning / Collaboration
+<p>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
+  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
+</p>
 
-<br/><br/>
-
-<!-- Planning / Collaboration -->
-<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="42" title="Figma"/>
-<img src="https://www.vectorlogo.zone/logos/notion/notion-icon.svg" width="42" title="Notion"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" width="42" title="Slack"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="42" title="Jira"/>
-
-<br/><br/>
-
-<!-- AI Tools (icon-safe) -->
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/chatgpt/chatgpt.png" width="42" title="ChatGPT"/>
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/artificial-intelligence/artificial-intelligence.png" width="42" title="Claude / AI Tools"/>
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/search/search.png" width="42" title="Perplexity"/>
-
----
-
-## 📊 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=AlBe-lang&show_icons=true&theme=tokyonight"/>
+### AI Tools
+<p>
+  <img src="https://img.shields.io/badge/ChatGPT-0FA958?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude_AI-111111?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Perplexity-003545?style=for-the-badge" />
+</
