@@ -2,7 +2,7 @@
 
 <h3 align="center">
   기술적 이해를 바탕으로 문제를 구조화하고, 데이터와 사용자 관점에서 서비스를 설계하는<br/>
-  <img src="https://img.shields.io/badge/-Service%20Planner%20%26%20Product%20Manager-2563EB?style=for-the-badge&logoColor=white" />
+  <strong><span style="color:#2563EB">Service Planner & Product Manager</span></strong>
 </h3>
 
 <p align="center">
