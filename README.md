@@ -16,40 +16,36 @@
 
 ---
 
-<h2 align="center">🧠 Languages & Tools</h2>
+## 🧠 Languages & Tools
 
-<p align="center">
-  <!-- Core Dev -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="48" title="TypeScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" title="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" title="SQL"/>
-</p>
+<!-- Core Dev -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="42" title="TypeScript"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="42" title="React"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="42" title="SQL"/>
 
-<p align="center">
-  <!-- Data / Analytics -->
-  <img src="https://www.vectorlogo.zone/logos/google_analytics/google_analytics-icon.svg" width="48" title="GA4"/>
-  <img src="https://www.vectorlogo.zone/logos/tableau/tableau-icon.svg" width="48" title="Tableau"/>
-</p>
+<br/><br/>
 
-<p align="center">
-  <!-- Planning / Collaboration -->
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="48" title="Figma"/>
-  <img src="https://www.vectorlogo.zone/logos/notion/notion-icon.svg" width="48" title="Notion"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" width="48" title="Slack"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="48" title="Jira"/>
-</p>
+<!-- Data / Analytics -->
+<img src="https://www.vectorlogo.zone/logos/google_analytics/google_analytics-icon.svg" width="42" title="GA4"/>
+<img src="https://www.vectorlogo.zone/logos/tableau/tableau-icon.svg" width="42" title="Tableau"/>
 
-<p align="center">
-  <!-- AI Tools -->
-  <img src="https://seeklogo.com/images/C/claude-ai-logo-8B9D3C3D02-seeklogo.com.png" width="48" title="Claude"/>
-  <img src="https://seeklogo.com/images/C/chatgpt-logo-02AFA704B5-seeklogo.com.png" width="48" title="ChatGPT"/>
-  <img src="https://seeklogo.com/images/P/perplexity-ai-logo-4C93767A90-seeklogo.com.png" width="48" title="Perplexity"/>
-</p>
+<br/><br/>
+
+<!-- Planning / Collaboration -->
+<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="42" title="Figma"/>
+<img src="https://www.vectorlogo.zone/logos/notion/notion-icon.svg" width="42" title="Notion"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" width="42" title="Slack"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="42" title="Jira"/>
+
+<br/><br/>
+
+<!-- AI Tools (icon-safe) -->
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/chatgpt/chatgpt.png" width="42" title="ChatGPT"/>
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/artificial-intelligence/artificial-intelligence.png" width="42" title="Claude / AI Tools"/>
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/search/search.png" width="42" title="Perplexity"/>
 
 ---
 
-<h2 align="center">📊 GitHub Stats</h2>
+## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlBe-lang&show_icons=true&theme=tokyonight" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=AlBe-lang&show_icons=true&theme=tokyonight"/>
