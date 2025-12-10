@@ -1,9 +1,13 @@
 <h1 align="center">👋 Hi, I'm <strong>Kim Hyun Seop</strong></h1>
 
+<p align="center">
+  기술적 이해를 바탕으로 문제를 구조화하고, 데이터와 사용자 관점에서 서비스를 설계하는
+</p>
+
 <h3 align="center">
-  기술적 이해를 바탕으로 문제를 구조화하고, 데이터와 사용자 관점에서 서비스를 설계하는<br/>
-  <img src="./role.svg" alt="Service Planner & Product Manager" />
+  <strong>Service Planner & Product Manager</strong> · South Korea 🇰🇷
 </h3>
+
 
 <p align="center">
   📫 <strong>Contact</strong> · 
