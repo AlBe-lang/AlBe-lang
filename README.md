@@ -5,7 +5,7 @@
 </p>
 
 <h3 align="center">
-  <strong>Service Planner & Product Manager</strong> · South Korea 🇰🇷
+  <strong>Service Planner & Product Manager</strong>
 </h3>
 
 
