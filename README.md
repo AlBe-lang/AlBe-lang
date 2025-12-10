@@ -18,36 +18,52 @@
 
 ## 🧠 Languages & Tools
 
-### Development
+<table>
+  <tr>
+    <td valign="top" width="50%">
+
+### 개발
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="SQL/PostgreSQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL" />
 </p>
 
-### Data / Analytics
+    </td>
+    <td valign="top" width="50%">
+
+### 데이터 / 분석
 <p>
+  <img src="./icons/tableau.png" width="40" height="40" alt="Tableau" />
   <img src="https://cdn.simpleicons.org/googleanalytics/E37400" width="40" height="40" alt="GA4" />
-  <img src="https://cdn.simpleicons.org/tableau/E97627" width="40" height="40" alt="Tableau" />
 </p>
 
-### Planning / Collaboration
+    </td>
+  </tr>
+
+  <tr>
+    <td valign="top" width="50%">
+
+### 계획
 <p>
-  <img src="https://cdn.simpleicons.org/figma/F24E1E" width="40" height="40" alt="Figma" />
-
-  <!-- Notion: 라이트/다크 모드 대응 -->
-  <img src="https://cdn.simpleicons.org/notion/000000#gh-light-mode-only" width="40" height="40" alt="Notion" />
-  <img src="https://cdn.simpleicons.org/notion/FFFFFF#gh-dark-mode-only" width="40" height="40" alt="Notion" />
-
+  <img src="./icons/figma.png" width="40" height="40" alt="Figma" />
+  <img src="https://cdn.simpleicons.org/notion/000000" width="40" height="40" alt="Notion" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" width="40" height="40" alt="Slack" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="40" height="40" alt="Jira" />
 </p>
 
-### AI Tools
+    </td>
+    <td valign="top" width="50%">
+
+### AI 툴
 <p>
-  <!-- ChatGPT는 공식 로고 단독 리소스가 제한적이라 OpenAI 로고로 표현 -->
-  <img src="https://cdn.simpleicons.org/openai/0FA958" width="40" height="40" alt="ChatGPT/OpenAI" />
-  <img src="https://cdn.simpleicons.org/anthropic/111111" width="40" height="40" alt="Claude/Anthropic" />
+  <img src="./icons/chatgpt.svg" width="40" height="40" alt="ChatGPT" />
+  <img src="https://cdn.simpleicons.org/anthropic/111111" width="40" height="40" alt="Claude" />
   <img src="https://cdn.simpleicons.org/perplexity/003545" width="40" height="40" alt="Perplexity" />
 </p>
+
+    </td>
+  </tr>
+</table>
+
 
