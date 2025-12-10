@@ -22,7 +22,7 @@
 <p>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
 ### Data / Analytics
@@ -42,6 +42,7 @@
 ### AI Tools
 <p>
   <img src="https://img.shields.io/badge/ChatGPT-0FA958?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Claude_AI-111111?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Perplexity-003545?style=for-the-badge" />
-</
+  <img src="https://img.shields.io/badge/Claude-111111?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Perplexity-003545?style=for-the-badge&logo=perplexity&logoColor=white" />
+</p>
+
