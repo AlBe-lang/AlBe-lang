@@ -18,52 +18,33 @@
 
 ## 🧠 Languages & Tools
 
-<table>
-  <tr>
-    <td valign="top" width="50%">
-
-### 개발
+### Development
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL" />
 </p>
 
-    </td>
-    <td valign="top" width="50%">
-
-### 데이터 / 분석
+### Data / Analytics
 <p>
-  <img src="./icons/tableau.png" width="40" height="40" alt="Tableau" />
+  <img src="./icons/태블로 로고.png" width="40" height="40" alt="Tableau" />
   <img src="https://cdn.simpleicons.org/googleanalytics/E37400" width="40" height="40" alt="GA4" />
 </p>
 
-    </td>
-  </tr>
-
-  <tr>
-    <td valign="top" width="50%">
-
-### 계획
+### Planning / Collaboration
 <p>
-  <img src="./icons/figma.png" width="40" height="40" alt="Figma" />
-  <img src="https://cdn.simpleicons.org/notion/000000" width="40" height="40" alt="Notion" />
+  <img src="./icons/피그마.png" width="40" height="40" alt="Figma" />
+  <img src="https://cdn.simpleicons.org/notion/FFFFFF" width="40" height="40" alt="Notion" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" width="40" height="40" alt="Slack" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="40" height="40" alt="Jira" />
 </p>
 
-    </td>
-    <td valign="top" width="50%">
-
-### AI 툴
+### AI Tools
 <p>
-  <img src="./icons/chatgpt.svg" width="40" height="40" alt="ChatGPT" />
-  <img src="https://cdn.simpleicons.org/anthropic/111111" width="40" height="40" alt="Claude" />
-  <img src="https://cdn.simpleicons.org/perplexity/003545" width="40" height="40" alt="Perplexity" />
+  <img src="./icons/ChatGPT-Logo.svg" width="40" height="40" alt="ChatGPT" />
+  <img src="./icons/클로드 로고.svg" width="40" height="40" alt="Claude" />
+  <img src="https://cdn.simpleicons.org/perplexity/FFFFFF" width="40" height="40" alt="Perplexity" />
 </p>
 
-    </td>
-  </tr>
-</table>
 
 
