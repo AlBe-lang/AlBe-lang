@@ -7,7 +7,7 @@
 
 <p align="center">
   📫 <strong>Contact</strong> · 
-  <a href="mailto:albert4323@naver.com">albert4323@naver.com · South Korea 🇰🇷 </a>
+  <a href="mailto:albert4323@naver.com">albert4323@naver.com</a> · South Korea 🇰🇷
 </p>
 
 ---
